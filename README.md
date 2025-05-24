@@ -13,3 +13,5 @@ Jika tidak ada yang error maka aplikasi bisa digunakan untuk:
 Input data yang akan disimpan
 Mengakses dan edit data
 Dan menghapus data.
+
+Kontribusi : Michael-Jo(nathan-Sandy)
